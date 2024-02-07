@@ -11,5 +11,20 @@ Some screeshot of dashboard:
 
 ![login](https://github.com/addyarishabh/Empeal-projects/blob/main/gc2.png?raw=true)
 
+![login](https://github.com/addyarishabh/Empeal-projects/blob/main/gc3.png?raw=true)
+
+![login](https://github.com/addyarishabh/Empeal-projects/blob/main/gc4.png?raw=true)
+
+![login](https://github.com/addyarishabh/Empeal-projects/blob/main/gc5.png?raw=true)
+
+![login](https://github.com/addyarishabh/Empeal-projects/blob/main/gc6.png?raw=true)
+
+![login](https://github.com/addyarishabh/Empeal-projects/blob/main/gc7.png?raw=true)
+
+![login](https://github.com/addyarishabh/Empeal-projects/blob/main/gc8.png?raw=true)
+
+![login](https://github.com/addyarishabh/Empeal-projects/blob/main/gc9.png?raw=true)
+
+
 
 
