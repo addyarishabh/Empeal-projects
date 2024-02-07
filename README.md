@@ -9,3 +9,7 @@ Some screeshot of dashboard:
 ![login](https://github.com/addyarishabh/Empeal-projects/blob/7894fe547baa83702386d89c0d77014d5f48e1df/gc1.png?raw=true)
 
 
+![login](https://github.com/addyarishabh/Empeal-projects/blob/main/gc2.png?raw=true)
+
+
+
