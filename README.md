@@ -29,3 +29,7 @@ Some screeshot of dashboard:
 
 # User Lifestyle Monitoring dashboard
 
+![login](https://github.com/addyarishabh/Empeal-projects/blob/main/dia1.png?raw=ture)
+
+![login](https://github.com/addyarishabh/Empeal-projects/blob/main/dia1.png)
+
