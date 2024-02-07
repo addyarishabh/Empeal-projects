@@ -33,4 +33,4 @@ Some screeshot of dashboard:
 
 ![login](https://github.com/addyarishabh/Empeal-projects/blob/main/dia2.png)
 
-![login](![login](https://github.com/addyarishabh/Empeal-projects/blob/main/dia3.png)
+![login](https://github.com/addyarishabh/Empeal-projects/blob/main/dia3.png)
